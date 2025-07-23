@@ -14,9 +14,9 @@ function App() {
   // const [notesList, setNotesList] = useState([])
   const notesList = [
     {noteTitle: "Vital Notes", noteCreatedDate: formatedDate},
-    {noteTitle: "Spanish class 101", noteCreatedDate: formatedDate},
-    {noteTitle: "Spanish class 101", noteCreatedDate: formatedDate},
-    {noteTitle: "Spanish class 101", noteCreatedDate: formatedDate},
+    // {noteTitle: "Spanish class 101", noteCreatedDate: formatedDate},
+    // {noteTitle: "Spanish class 101", noteCreatedDate: formatedDate},
+    // {noteTitle: "Spanish class 101", noteCreatedDate: formatedDate},
   ]
 
 

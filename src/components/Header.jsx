@@ -16,7 +16,7 @@ const Header = ({ notesList }) => {
       {
         notesList.length === 0 ? "No notes yet..." : notesList.length === 1 
         ? 
-          <span>You only have <span>{notesList.length}</span> note</span> 
+          <span>You only have one note</span> 
           : 
           <span>You have <span>{notesList.length}</span> notes</span>
       }
